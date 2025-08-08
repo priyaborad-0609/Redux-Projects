@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20231104/pngtree-elegant-minimalist-black-textured-background-a-blank-dark-wallpaper-image_13747094.png");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+.counter-container {
+  text-align: center;
+  padding: 40px;
+  background-color: white;
+  width: 350px;
+  margin-left: 105%;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(180, 179, 179, 0.9);
+
+}
+.counter-container h2 {
+  color: #292828;
+  margin-bottom: 10px;
+}
+.counter-container h1 {
+  font-size: 3rem;
+  margin: 20px 0;
+  color: #282829;
+}
+.counter-container button {
+  padding: 10px 20px;
+  margin: 5px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+.counter-container button {
+  background-color: #000000;
+  color: white;
+}
+.counter-container button:hover {
+  transform: scale(1.05);
+  opacity: 0.9;
+}
