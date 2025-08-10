@@ -1,5 +1,4 @@
-body 
-{
+body {
   background-image: url("https://st2.depositphotos.com/2124221/46848/i/450/depositphotos_468487086-stock-photo-abstract-multicolored-background-poly-pattern.jpg");
   background-size: cover;
   background-position: center;
@@ -15,7 +14,7 @@ body
   border-radius: 20px;
   font-family: 'Poppins', sans-serif;
   text-align: center;
-  
+
   /* Animation add */
   animation: fadeInUp 0.8s ease-out;
 }
@@ -25,13 +24,12 @@ body
     opacity: 0;
     transform: translateY(40px);
   }
+
   100% {
     opacity: 1;
     transform: translateY(0);
   }
 }
-
-
 /* Title */
 .container h1 {
   color: #080808;
@@ -113,6 +111,7 @@ li {
     opacity: 0;
     transform: translateX(-20px);
   }
+
   100% {
     opacity: 1;
     transform: translateX(0);
