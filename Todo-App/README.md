@@ -18,3 +18,6 @@ It allows users to add, edit, and delete todos with a smooth user experience.</p
 <h3>📷 Preview</h3>
 
 <img width="1365" height="608" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/10de9079-3b06-4941-9183-7447662755f5" />
+
+<p>Video: https://drive.google.com/file/d/1WEWpIwMHBbHJ1dBOUKjoxt0nifSETjtm/view?usp=sharing </p>
+
