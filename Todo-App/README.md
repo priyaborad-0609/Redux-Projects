@@ -15,3 +15,6 @@ It allows users to add, edit, and delete todos with a smooth user experience.</p
   <li>Redux Toolkit – State management</li>
   <li>CSS – Styling (customizable)</li>
 </ul>
+<h3>📷 Preview</h3>
+
+<img width="1365" height="608" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/10de9079-3b06-4941-9183-7447662755f5" />
