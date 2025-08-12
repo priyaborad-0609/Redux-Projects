@@ -44,4 +44,8 @@ const Input = () => {
     );
 }
 
+<<<<<<< HEAD
 export default Input;
+=======
+export default Input;
+>>>>>>> d86b44bd1f921bf305394a6a4e250ff800f74c02
