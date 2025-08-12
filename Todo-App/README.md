@@ -1,3 +1,5 @@
+
+
 <h1>📌 Todo App</h1>
 <p>A simple and interactive Todo App built using React & Redux to help manage daily tasks effectively.
 It allows users to add, edit, and delete todos with a smooth user experience.</p>
