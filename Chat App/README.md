@@ -1,12 +1,24 @@
-# React + Vite
+<h1>💬 Chat App</h1>
+<p>A real-time chat application where users can connect, talk, and share messages instantly! 🚀</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3>Features:</h3>
+<ul>
+  <li>🔐 User Authentication – Sign up & login securely</li>
+  <li>👥 Multi-User Chat – Chat with multiple users at the same time</li>
+  <li>💾 Firestore Database – Store and fetch messages in real-time</li>
+  <li>📝 CRUD Operations – Create, read, update & delete messages</li>
+  <li>🖥️ Responsive UI – Works perfectly on desktop & mobile</li>
+</ul>
 
-Currently, two official plugins are available:
+<h3>Tech Stack:</h3>
+<ul>
+  <li>⚛️ React.js</li>
+  <li>🛠️ Redux Toolkit</li>
+  <li>🔥 Firebase (Auth + Firestore)</li>
+  <li>🎨 Tailwind CSS</li>
+</ul>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h3>ScreenShot</h3>
+<img width="1355" height="602" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/cd81b4c5-270a-4a71-9627-e0dfb6d8cac8" />
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h4>Video:</h4>https://drive.google.com/file/d/11_GL4YUdQBMe2DuRIf0Pt9CIx8hwDon_/view?usp=sharing
